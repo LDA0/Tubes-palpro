@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655209409 source:d:\new folder\tubes\main.c
+	<stdio.h>
+	<stdlib.h>
+
